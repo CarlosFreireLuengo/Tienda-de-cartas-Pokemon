@@ -4,6 +4,9 @@
    Paleta de marca (basada en el sitio antiguo, ajustada para dar buen contraste)
    Se usa como clases de Tailwind: bg-brand-700, text-ink, bg-surface, etc.
    ========================================================================== */
+/* Tailwind CSS v4 directive; disable generic CSS at-rule linting for this file. */
+/* css-lint-disable unknownAtRules */
+/* stylelint-disable at-rule-no-unknown */
 @theme static {
   /* Rojos: cabecera y botones principales */
   --color-brand-500: #f44336;
@@ -33,6 +36,8 @@
 @theme inline {
   --font-sans: var(--font-nunito), ui-sans-serif, system-ui, "Segoe UI", sans-serif;
 }
+/* stylelint-enable at-rule-no-unknown */
+/* css-lint-enable unknownAtRules */
 
 /* ==========================================================================
    Estilos base de toda la web
