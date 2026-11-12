@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="icon" href="../img/logoPokemaniaco.png" />
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.css" />
+  <link rel="stylesheet" href="../CSS/styleindex.css" />
+  <title>Pokemanicos</title>
+</head>
+
+<body>
+  <!--Header-->
+  <header>
+    <div>
+      <a href="index.html">
+        <img src="../img/logoPokemaniaco.png" alt="logoPokemaniaco" />
+      </a>
+      <nav>
+        <ul>
+          <li><a href="novedades.html">Últimas novedades</a></li>
+          <li><a href="Colecciones.html">Colecciones</a></li>
+          <form class="search">
+            <input type="search" placeholder="Buscar cartas…" />
+            <button>🔍</button>
+          </form>
+          <nav class="user-nav">
+            <a href="/perfil" class="icon user">👤</a>
+            <a href="/carrito" class="icon cart"><span class="count">0</span>🛒</a>
+          </nav>
+        </ul>
+      </nav>
+    </div>
+  </header>
+
+  <!-- Carrusel Swiper -->
+  <div class="swiper hero-slider">
+    <div class="swiper-wrapper">
+      <div class="swiper-slide"><img src="../img/imagen1Pokemon.jpg" alt="" /></div>
+      <div class="swiper-slide"><img src="../img/Destined-Rivals-Logo.png" alt="Destined Rivals" /></div>
+      <div class="swiper-slide"><img src="../img/JT.jpg" alt="Journey Together" /></div>
+    </div>
+    <!-- Controles -->
+    <div class="swiper-pagination"></div>
+    <div class="swiper-button-prev"></div>
+    <div class="swiper-button-next"></div>
+  </div>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/swiper@10/swiper-bundle.min.js"></script>
+  <script src="../JS/scriptindex.js"></script>
+</body>
+
+</html>
