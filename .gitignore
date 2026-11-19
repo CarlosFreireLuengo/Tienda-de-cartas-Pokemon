@@ -1,0 +1,17 @@
+# Editor y herramientas
+.qodo/
+.vscode/
+.idea/
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
+
+# Variables de entorno (nunca se suben al repo)
+.env
+.env.*
+!.env.example
+
+# Dependencias y builds
+node_modules/
+.next/
