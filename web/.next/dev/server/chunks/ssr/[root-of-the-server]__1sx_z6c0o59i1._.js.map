@@ -1,7 +1,0 @@
-{
-  "version": 3,
-  "sources": [],
-  "sections": [
-    {"offset": {"line": 19, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/carlo/Tienda-de-cartas-Pokemon/web/src/app/favicon.ico.mjs%20(structured%20image%20object)"],"sourcesContent":["import src from \"IMAGE\";\nexport default { src, width: 48, height: 48 }\n"],"names":["src","width","height"],"mappings":";;;;AAAA;;uCACe;IAAEA,KAAAA,0IAAG;IAAEC,OAAO;IAAIC,QAAQ;AAAG"}},
-    {"offset": {"line": 34, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/carlo/Tienda-de-cartas-Pokemon/web/src/app/page.tsx"],"sourcesContent":["export default function Home() {\n  return (\n    <div className=\"mx-auto max-w-7xl px-4 py-16 sm:px-6\">\n      <h1 className=\"text-3xl font-extrabold text-brand-800\">\n        Bienvenido a Pokemaniaco\n      </h1>\n      <p className=\"mt-2 text-muted\">\n        Aquí irán el carrusel y las novedades.\n      </p>\n    </div>\n  );\n}"],"names":["Home","className"],"mappings":";;;;;;AAAe,SAASA;IACtB,qBACE,8OAAC;QAAIC,WAAU;;0BACb,8OAAC;gBAAGA,WAAU;0BAAyC;;;;;;0BAGvD,8OAAC;gBAAEA,WAAU;0BAAkB;;;;;;;;;;;;AAKrC"}}]
-}
