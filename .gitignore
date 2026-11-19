@@ -13,5 +13,5 @@ Thumbs.db
 !.env.example
 
 # Dependencias y builds
-node_modules/
-.next/
+**/node_modules/
+**/.next/
