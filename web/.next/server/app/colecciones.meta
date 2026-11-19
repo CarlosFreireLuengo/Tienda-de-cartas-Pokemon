@@ -1,0 +1,36 @@
+{
+  "status": 200,
+  "headers": {
+    "link": "</_next/static/media/29e2a75af8e45044-s.p.2kjei9psvcorz.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/colecciones/layout,_N_T_/colecciones/page,_N_T_/colecciones"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/colecciones/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 49216,
+    "slots": {
+      "children": {
+        "hints": 49248,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/bc103cbf27eced0ae2c40fa3a03d991dd31c9320a229a5e97878ce32a914beb4/$/colecciones",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/colecciones/page"
+    },
+    "isFallback": false
+  }
+}

@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 4, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/carlo/Tienda-de-cartas-Pokemon/web/src/app/not-found.tsx"],"sourcesContent":["import Link from \"next/link\";\n\nexport default function NotFound() {\n  return (\n    <div className=\"mx-auto max-w-7xl px-4 py-20 text-center sm:px-6\">\n      <p className=\"text-sm font-bold uppercase tracking-widest text-brand-800\">\n        Error 404\n      </p>\n      <h1 className=\"mt-2 text-4xl font-extrabold\">Página no encontrada</h1>\n      <p className=\"mx-auto mt-4 max-w-md text-muted\">\n        La página que buscas no existe o se ha movido. Vuelve al inicio y sigue\n        explorando la tienda.\n      </p>\n      <Link\n        href=\"/\"\n        className=\"mt-8 inline-block rounded-full bg-gold-400 px-6 py-3 font-bold text-ink transition-colors hover:bg-gold-300\"\n      >\n        Volver al inicio\n      </Link>\n    </div>\n  );\n}\n"],"names":["NotFound","className","href"],"mappings":";;;;;AAAA;;;AAEe,SAASA;IACtB,qBACE,8OAAC;QAAIC,WAAU;;0BACb,8OAAC;gBAAEA,WAAU;0BAA6D;;;;;;0BAG1E,8OAAC;gBAAGA,WAAU;0BAA+B;;;;;;0BAC7C,8OAAC;gBAAEA,WAAU;0BAAmC;;;;;;0BAIhD,8OAAC,0LAAI;gBACHC,MAAK;gBACLD,WAAU;0BACX;;;;;;;;;;;;AAKP"}}]
+}

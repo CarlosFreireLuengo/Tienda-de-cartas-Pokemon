@@ -1,0 +1,5 @@
+{"timestamp":"00:00:01.961","source":"Server","level":"LOG","message":"- Cache Components enabled"}
+{"timestamp":"00:00:01.961","source":"Server","level":"LOG","message":"- Partial Prefetching enabled"}
+{"timestamp":"00:00:01.961","source":"Server","level":"LOG","message":""}
+{"timestamp":"00:00:18.758","source":"Browser","level":"INFO","message":"Download the React DevTools for a better development experience: https://react.dev/link/react-devtools"}
+{"timestamp":"00:01:49.108","source":"Server","level":"WARN","message":"Route / is rendering with server caches disabled. For this navigation, Component Metadata in React DevTools will not accurately reflect what is statically prerenderable and runtime prefetchable. See more info here: https://nextjs.org/docs/messages/cache-bypass-in-dev"}

@@ -1,0 +1,36 @@
+{
+  "status": 200,
+  "headers": {
+    "link": "</_next/static/media/29e2a75af8e45044-s.p.2kjei9psvcorz.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/novedades/layout,_N_T_/novedades/page,_N_T_/novedades"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/novedades/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 49216,
+    "slots": {
+      "children": {
+        "hints": 49248,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/8ca57943ed35bb1249c91ee3ebae6396879e0ac1cdcfd2a878c4901b71511bc8/$/novedades",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/novedades/page"
+    },
+    "isFallback": false
+  }
+}

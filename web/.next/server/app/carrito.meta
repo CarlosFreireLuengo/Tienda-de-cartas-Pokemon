@@ -1,0 +1,36 @@
+{
+  "status": 200,
+  "headers": {
+    "link": "</_next/static/media/29e2a75af8e45044-s.p.2kjei9psvcorz.woff2>; rel=preload; as=\"font\"; crossorigin=\"\"; type=\"font/woff2\"",
+    "x-nextjs-stale-time": "300",
+    "x-nextjs-prerender": "1",
+    "x-next-cache-tags": "_N_T_/layout,_N_T_/carrito/layout,_N_T_/carrito/page,_N_T_/carrito"
+  },
+  "segmentPaths": [
+    "/_tree",
+    "/_full",
+    "/carrito/__PAGE__"
+  ],
+  "prefetchHints": {
+    "hints": 49216,
+    "slots": {
+      "children": {
+        "hints": 49248,
+        "slots": {
+          "children": {
+            "hints": 49312,
+            "slots": null
+          }
+        }
+      }
+    }
+  },
+  "routeCache": {
+    "key": "/route-cache/APP_PAGE/c5436d480276d399a6c8b920038c707ad2e55a32479498f6cf8bbf53af452f04/$/carrito",
+    "owner": {
+      "kind": "APP_PAGE",
+      "sourceRoute": "/carrito/page"
+    },
+    "isFallback": false
+  }
+}
